@@ -1,4 +1,4 @@
 # demo1
 This is my first Git Repository.
 <br>
-Author - Saurabh Kumbhar.
+Author - Saurabh K.
